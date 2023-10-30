@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-29T22:23:04 IST" name="Loan" finished-at="2023-08-29T22:23:04 IST" duration-ms="240">
+    <groups>
+    </groups>
+    <test started-at="2023-08-29T22:23:04 IST" name="Test" finished-at="2023-08-29T22:23:04 IST" duration-ms="240">
+      <class name="AutomationProject.seleniumFrame.day4">
+        <test-method signature="apple()[pri:0, instance:AutomationProject.seleniumFrame.day4@31190526]" started-at="2023-08-29T22:23:04 IST" name="apple" finished-at="2023-08-29T22:23:04 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apple -->
+        <test-method signature="weekDay()[pri:0, instance:AutomationProject.seleniumFrame.day4@31190526]" started-at="2023-08-29T22:23:04 IST" name="weekDay" finished-at="2023-08-29T22:23:04 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weekDay -->
+        <test-method signature="weekDayAfter()[pri:0, instance:AutomationProject.seleniumFrame.day4@31190526]" started-at="2023-08-29T22:23:04 IST" name="weekDayAfter" finished-at="2023-08-29T22:23:04 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weekDayAfter -->
+        <test-method signature="weekDayEvg()[pri:0, instance:AutomationProject.seleniumFrame.day4@31190526]" started-at="2023-08-29T22:23:04 IST" name="weekDayEvg" finished-at="2023-08-29T22:23:04 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weekDayEvg -->
+        <test-method signature="weekDayMorn()[pri:0, instance:AutomationProject.seleniumFrame.day4@31190526]" started-at="2023-08-29T22:23:04 IST" name="weekDayMorn" finished-at="2023-08-29T22:23:04 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weekDayMorn -->
+      </class> <!-- AutomationProject.seleniumFrame.day4 -->
+      <class name="AutomationProject.seleniumFrame.day3">
+        <test-method is-config="true" signature="bikeLoginAPI()[pri:0, instance:AutomationProject.seleniumFrame.day3@229f66ed]" started-at="2023-08-29T22:23:04 IST" name="bikeLoginAPI" finished-at="2023-08-29T22:23:04 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bikeLoginAPI -->
+        <test-method is-config="true" signature="bikeLoginmobile()[pri:0, instance:AutomationProject.seleniumFrame.day3@229f66ed]" started-at="2023-08-29T22:23:04 IST" name="bikeLoginmobile" finished-at="2023-08-29T22:23:04 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bikeLoginmobile -->
+        <test-method is-config="true" signature="beforeGeneralLogin()[pri:0, instance:AutomationProject.seleniumFrame.day3@229f66ed]" started-at="2023-08-29T22:23:04 IST" name="beforeGeneralLogin" finished-at="2023-08-29T22:23:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeGeneralLogin -->
+        <test-method signature="bikeLoginAPI()[pri:0, instance:AutomationProject.seleniumFrame.day3@229f66ed]" started-at="2023-08-29T22:23:04 IST" name="bikeLoginAPI" finished-at="2023-08-29T22:23:04 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bikeLoginAPI -->
+        <test-method is-config="true" signature="afterGeneralLogin()[pri:0, instance:AutomationProject.seleniumFrame.day3@229f66ed]" started-at="2023-08-29T22:23:04 IST" name="afterGeneralLogin" finished-at="2023-08-29T22:23:04 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterGeneralLogin -->
+        <test-method is-config="true" signature="beforeGeneralLogin()[pri:0, instance:AutomationProject.seleniumFrame.day3@229f66ed]" started-at="2023-08-29T22:23:04 IST" name="beforeGeneralLogin" finished-at="2023-08-29T22:23:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeGeneralLogin -->
+        <test-method signature="bikeLoginmobile()[pri:0, instance:AutomationProject.seleniumFrame.day3@229f66ed]" started-at="2023-08-29T22:23:04 IST" name="bikeLoginmobile" finished-at="2023-08-29T22:23:04 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bikeLoginmobile -->
+        <test-method is-config="true" signature="afterGeneralLogin()[pri:0, instance:AutomationProject.seleniumFrame.day3@229f66ed]" started-at="2023-08-29T22:23:04 IST" name="afterGeneralLogin" finished-at="2023-08-29T22:23:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterGeneralLogin -->
+        <test-method is-config="true" signature="bikeLoginWeb()[pri:0, instance:AutomationProject.seleniumFrame.day3@229f66ed]" started-at="2023-08-29T22:23:04 IST" name="bikeLoginWeb" finished-at="2023-08-29T22:23:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bikeLoginWeb -->
+      </class> <!-- AutomationProject.seleniumFrame.day3 -->
+      <class name="AutomationProject.seleniumFrame.day2">
+        <test-method signature="carLoginAPI()[pri:0, instance:AutomationProject.seleniumFrame.day2@7dcf94f8]" started-at="2023-08-29T22:23:04 IST" name="carLoginAPI" finished-at="2023-08-29T22:23:04 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carLoginAPI -->
+        <test-method signature="carLoginweb()[pri:0, instance:AutomationProject.seleniumFrame.day2@7dcf94f8]" started-at="2023-08-29T22:23:04 IST" name="carLoginweb" finished-at="2023-08-29T22:23:04 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carLoginweb -->
+        <test-method signature="carLoginmobile()[pri:0, instance:AutomationProject.seleniumFrame.day2@7dcf94f8]" started-at="2023-08-29T22:23:04 IST" name="carLoginmobile" finished-at="2023-08-29T22:23:04 IST" depends-on-methods="AutomationProject.seleniumFrame.day2.carLoginweb" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carLoginmobile -->
+        <test-method is-config="true" signature="carLoginAPI()[pri:0, instance:AutomationProject.seleniumFrame.day2@7dcf94f8]" started-at="2023-08-29T22:23:04 IST" name="carLoginAPI" finished-at="2023-08-29T22:23:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carLoginAPI -->
+      </class> <!-- AutomationProject.seleniumFrame.day2 -->
+      <class name="AutomationProject.seleniumFrame.day1">
+        <test-method signature="demo(java.lang.String,java.lang.String)[pri:0, instance:AutomationProject.seleniumFrame.day1@74235045]" started-at="2023-08-29T22:23:04 IST" name="demo" data-provider="getData" finished-at="2023-08-29T22:23:04 IST" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firstname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11111111]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo(java.lang.String,java.lang.String)[pri:0, instance:AutomationProject.seleniumFrame.day1@74235045]" started-at="2023-08-29T22:23:04 IST" name="demo" data-provider="getData" finished-at="2023-08-29T22:23:04 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[secondname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[22222222]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo(java.lang.String,java.lang.String)[pri:0, instance:AutomationProject.seleniumFrame.day1@74235045]" started-at="2023-08-29T22:23:04 IST" name="demo" data-provider="getData" finished-at="2023-08-29T22:23:04 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[thirdname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[333333333]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="secondTest()[pri:0, instance:AutomationProject.seleniumFrame.day1@74235045]" started-at="2023-08-29T22:23:04 IST" name="secondTest" finished-at="2023-08-29T22:23:04 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+      </class> <!-- AutomationProject.seleniumFrame.day1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Loan -->
+</testng-results>

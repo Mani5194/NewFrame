@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Loan">
+  <test thread-count="5" name="Test">
+	  
+    <classes>
+      <class name="AutomationProject.seleniumFrame.day1"/>
+      <class name="AutomationProject.seleniumFrame.day2"/>
+      <class name="AutomationProject.seleniumFrame.day3"/>
+      <class name="AutomationProject.seleniumFrame.day4"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
